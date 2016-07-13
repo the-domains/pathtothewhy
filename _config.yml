@@ -1,7 +1,7 @@
-name: PathToTheWhy
+name: PathToWhy
 favicon: null
-layout_spectrum: 0.7231440208852291
-typography_spectrum: 0.9633133276365697
+layout_spectrum: 0
+typography_spectrum: 0.63739
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6302590244449675
-  lightness: 0.8090033091139048
-  saturation: 0.8587394433561713
-  rhythmicContrast: 0.8743376710917801
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
